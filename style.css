@@ -15,5 +15,5 @@ body {
 
 .container img {
     width: 100%;
-    -webkit-user-drag: nome;
+    -webkit-user-drag: none;
 }
